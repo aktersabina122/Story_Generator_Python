@@ -9,7 +9,7 @@
 
 # TODO: Create a Python program that swaps those items in your story
 
-# TODO: Print the user's story to the command line'''
+# TODO: Print the user's story to the command line
 
 #====================================================================================================
 
