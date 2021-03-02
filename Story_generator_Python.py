@@ -1,5 +1,5 @@
 
-'''
+
 # Challenge One (Input and String Formatting)
 # You and a partner will try to use your knowledge of Python to create a MadLib function.
 
